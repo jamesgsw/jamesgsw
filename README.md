@@ -19,7 +19,7 @@ This is a personal project I undertook to understand the various key metrics in 
 This is a personal project I undertook to understand to apply my knowledge in statistics and statistical analysis using programming after taking Statistics Module in University. The statistics module was my most impactful skill I learn and wanted to apply this skill to a real world problem.
 
 3. Identification of Manufacturing Process Bottlenecks <br/>
-[Project Report](https://jamesgsw.github.io/James-Portfolio/projects/tsh-manufacturing-bottleneck/)
+[Project Report](https://jamesgsw.github.io/James-Portfolio/projects/tsh-manufacturing-bottleneck/) <br/>
 This project was my university industry attachment with TSH Synergy PTE LTD in conjunction with university modules: Data and Business Analytics. By creating a Business Intelligence Dashboard and Data Analysis to expedite the identification of possible bottlenecks.
 
 <!--

@@ -10,8 +10,8 @@ My name is James Gan,
 
 
 Notable Repository:
-1. Shopee Code League Hackathon
-[Github Repository](https://github.com/jamesgsw/Shopee-Code-League-2020) <br/>
+1. Shopee Code League Hackathon<br/>
+[Project Report](https://jamesgsw.github.io/James-Portfolio/projects/shopee-code-league/) | [Github Repository](https://github.com/jamesgsw/Shopee-Code-League-2020) <br/>
 Hackathon consisting of challenges in Logistics, Sentiment and Marketing Analytics. Applying knowledge across algorithms, NLP and Data Analytics.
 
 2. Path Finding Visualisation using A* Algorithm with Python<br/>

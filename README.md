@@ -2,7 +2,7 @@
 
 My name is James Gan,
 
-- 📖   Penultimate year | Major in Business Analytics | Minor in Artificial Intelligence | Singapore University of Technology and Design(SUTD)
+- 📖   Graduate | Major in Business Analytics | Minor in Artificial Intelligence | Singapore University of Technology and Design(SUTD)
 - 📫   Email: jame3gan@gmail.com
 - ⚡   Portfolio Page: https://jamesgsw.github.io/James-Portfolio/
 - 🔗   LinkedIn: https://www.linkedin.com/in/jamesgsw/
